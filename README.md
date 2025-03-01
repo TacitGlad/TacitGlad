@@ -27,7 +27,7 @@ Game development is another area I enjoy, particularly in creating mini, strateg
 
 I am confident that my broad skill set makes me well-suited for many remote job opportunities, especially those requiring problem-solving and creativity. I'm particularly strong when it comes to tackling ad-hoc problems and quickly adapting to new challenges.
 
-#Concerns
+# Concerns
 
 The one area where I feel some concern is the accuracy of my online presence or professional accounts, which I believe might not fully reflect my capabilities. I am actively seeking remote work opportunities and would greatly appreciate any advice or guidance on how to improve my chances of securing such positions.
 </p>
