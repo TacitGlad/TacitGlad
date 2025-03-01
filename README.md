@@ -160,5 +160,5 @@ The one area where I feel some concern is the accuracy of my online presence or 
 ## Github stats 📊
 
 
-<img data-target="animated-image.replacedImage" alt="👋 Space! Life! Internet!" class="AnimatedImagePlayer-animatedImage" src="https://cdn.mos.cms.futurecdn.net/8teV7iwo8oiozVztYYR66H.gif" style="display: block; opacity: 1;">
-
+<img data-target="animated-image.replacedImage" alt="👋 Space! Life! Internet!" class="AnimatedImagePlayer-animatedImage" src="https://th.bing.com/th/id/R.9b9d7dca9a19d40865aa8b5d6cdf3da4?rik=%2bp4I8D2josiAQw&riu=http%3a%2f%2f31.media.tumblr.com%2ftumblr_lwtcz64vzR1r7pum5o1_500.gif&ehk=6ZNhPX5fK3wIV4HMRfeuEt8FVBPbM7fPfLciJ1MrHNk%3d&risl=&pid=ImgRaw&r=0" style="display: block; opacity: 1;">
+<img data-target="animated-image.replacedImage" alt="👋 Hi I'm AI, Web, Game developer" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
