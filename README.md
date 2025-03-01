@@ -1,11 +1,6 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm AI, Web, Game developer" title="👋 Hi there! Welcome!"/>
+<img src="https://i.kickstarter.com/assets/015/675/409/a924370cb4645f198e39127f84b7bf47_original.gif?fit=scale-down&origin=ugc&q=92&width=680&sig=%2BFHuTMYPV5ge8TFZuWTf%2BshLqZiaIexeAGfCOzeXJUI%3D" alt="👋 Hi there! I'm AI, Web, Game developer" title="👋 Hi there! Welcome!"/>
 <div align="justify">
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://justin-games.pages.dev/">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg?style=for-the-badge&logo=Portfolio&logoColor=white">
-</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/SpartacusApex/">
 <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
