@@ -161,4 +161,4 @@ The one area where I feel some concern is the accuracy of my online presence or 
 
 
 <img data-target="animated-image.replacedImage" alt="👋 Space! Life! Internet!" class="AnimatedImagePlayer-animatedImage" src="https://cdn.mos.cms.futurecdn.net/8teV7iwo8oiozVztYYR66H.gif" style="display: block; opacity: 1;">
-<img data-target="animated-image.replacedImage" alt="👋 Hi I'm AI, Web, Game developer" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+
