@@ -1,4 +1,4 @@
-<img src="https://i.kickstarter.com/assets/015/675/409/a924370cb4645f198e39127f84b7bf47_original.gif?fit=scale-down&origin=ugc&q=92&width=680&sig=%2BFHuTMYPV5ge8TFZuWTf%2BshLqZiaIexeAGfCOzeXJUI%3D" alt="👋 Hi there! I'm AI, Web, Game developer" title="👋 Hi there! Welcome!"/>
+<img src="https://i.kickstarter.com/assets/015/675/409/a924370cb4645f198e39127f84b7bf47_original.gif?fit=scale-down&origin=ugc&q=92&width=680&sig=%2BFHuTMYPV5ge8TFZuWTf%2BshLqZiaIexeAGfCOzeXJUI%3D" alt="👋 Hi there! I'm AI, Web, Game and any more, Creative developer" title="👋 Hi there! Welcome!"/>
 <div align="justify">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -160,5 +160,5 @@ The one area where I feel some concern is the accuracy of my online presence or 
 ## Github stats 📊
 
 
-
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+<img data-target="https://cdn.mos.cms.futurecdn.net/8teV7iwo8oiozVztYYR66H.gif" alt="👋 Space! Life! Internet!" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+<img data-target="animated-image.replacedImage" alt="👋 Hi I'm AI, Web, Game developer" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
