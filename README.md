@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://justin-games.pages.dev/">
-<img src="https://img.shields.io/badge/Portfolio%231DA1F2.svg?style=for-the-badge&logo=Portfolio&logoColor=white">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg?style=for-the-badge&logo=Portfolio&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/SpartacusApex/">
@@ -15,8 +15,26 @@
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
+welcome to my GitHub Page. 
 
+My Portfolio is <a href="https://justin-games.pages.dev/"> Creative game developer </a>.
+
+
+I have a diverse and well-rounded skill set in various programming fields. My web development expertise includes proficiency in technologies like MERN (MongoDB, Express, React, Node.js), MEVN (MongoDB, Express, Vue.js, Node.js), and core Node.js. On the desktop side, I have strong experience with frameworks such as MFC, C#, and Qt. For mobile development, I am adept at using React Native to build cross-platform applications.
+
+In addition to my programming skills, I possess in-depth knowledge of algorithms and apply them effectively to solve complex problems. I am also highly proficient in several programming languages, including C++, JavaScript, Go, and Python.
+
+I've participated in local hackathons and coding competitions, performing well and even securing first place in one of them. I view programming as a form of art, where creativity and problem-solving merge to create impactful solutions.
+
+Beyond programming, I have hands-on experience with SolidWorks and am passionate about hobbies like astronomical observation, climbing, and DIY projects. I’ve built a DIY CNC machine, created various Arduino-based projects, and even constructed a homemade telescope.
+
+Game development is another area I enjoy, particularly in creating mini, strategic, and intelligent games. I’ve developed several games using MERN and Qt, which has honed my ability to design and implement complex systems.
+
+I am confident that my broad skill set makes me well-suited for many remote job opportunities, especially those requiring problem-solving and creativity. I'm particularly strong when it comes to tackling ad-hoc problems and quickly adapting to new challenges.
+
+#Concerns
+
+The one area where I feel some concern is the accuracy of my online presence or professional accounts, which I believe might not fully reflect my capabilities. I am actively seeking remote work opportunities and would greatly appreciate any advice or guidance on how to improve my chances of securing such positions.
 </p>
 
 ## My favorite tools and technologies ⚙️
@@ -211,11 +229,6 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
  </a>
  
 </details>
-
-## Recent GitHub Activity ✅
-
-![Metrics](https://metrics.lecoq.io/rzashakeri?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran)
-
 
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
